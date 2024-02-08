@@ -1,4 +1,8 @@
-﻿using System.Net.Mime;
+
+
+//demoerik
+
+using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
 using BlazorAdmin.Services;
